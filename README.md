@@ -16,7 +16,7 @@ monitoring human walking, where concreate and rich data can be obtained for
 examining our posture control mechanism during body movement and providing
 enhanced diagnosis and treatment plan.
 
-Project Report: MPU6050 Sensor Integration with Arduino IDE
+Project: MPU6050 Sensor Integration with Arduino IDE
 
 Step 1: Arduino IDE Installation
 Begin the project by installing the latest version of the Arduino IDE from the official website (https://www.arduino.cc/en/software). Follow the installation instructions provided for your specific operating system (Windows, macOS, or Linux).
