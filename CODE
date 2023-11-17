@@ -32,9 +32,9 @@ void loop()
   Serial.print("Axis X = ");
   Serial.print(data.X);
   Serial.print("  ");
-  Serial.print("Axis Y = ");
+  Serial.print(", Axis Y = ");
   Serial.print(data.Y);
   Serial.print("  ");
-  Serial.print("Axis Z  = ");
+  Serial.print(", Axis Z  = ");
   Serial.println(data.Z);
 }
